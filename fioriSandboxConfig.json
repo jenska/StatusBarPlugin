@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"StatusBarPlugin": {
+			"component": "com.github.jenska.flp.statusbar",
+			"url": "../../../../../"
+		}
+	}
+}
